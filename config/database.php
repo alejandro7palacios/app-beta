@@ -41,6 +41,7 @@ exit();
  }
 
  //supabase conection
+ /*
  $supa_conn = pg_connect($supa_data_connection);
 
  if(!$supa_conn){
@@ -49,6 +50,6 @@ exit();
  }else{
     echo "<br>supa success conection siiuuuu !!!";
  }
-
+*/
 
 ?>
